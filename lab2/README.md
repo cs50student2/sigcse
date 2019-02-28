@@ -1,4 +1,4 @@
-# My Lab
+# My Lab (steps,spoilers, and files)
 
 Here's how we can add videos:
 
