@@ -1,6 +1,9 @@
 lab50:
   window:
+    - browser
     - editor
+    - readme
+    - terminal
   files:
     - !exclude "*"
     - !include "hello.html"
