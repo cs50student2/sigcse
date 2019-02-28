@@ -42,4 +42,4 @@ string name = get_string("What's your name? ");
 
 ## Final Step
 
-You can also add emojis :tada: :tada: :tada:
+You can also add emojis :slightly_smiling_face:
