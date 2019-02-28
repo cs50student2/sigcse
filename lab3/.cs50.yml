@@ -1,5 +1,5 @@
 lab50:
-  windows:
+  window:
     - editor
   files:
     - !exclude "*"
