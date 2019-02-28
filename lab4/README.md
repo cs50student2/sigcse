@@ -24,7 +24,7 @@ Here's how we add `inline code` and here's how we add a code block:
 
 {% next %}
 
-## Third Step
+## Final Step
 
 Here's how we add a spoiler:
 
@@ -37,9 +37,3 @@ string name = get_string("What's your name? ");
 ```
 
 {% endspoiler %}
-
-{% next %}
-
-## Final Step
-
-You can also add emojis :slightly_smiling_face:
