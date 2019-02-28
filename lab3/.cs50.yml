@@ -1,6 +1,6 @@
 lab50:
   windows:
-    - browser
+    - x
     - editor
     - readme
     - terminal
