@@ -1,8 +1,6 @@
 lab50:
   windows:
     - editor
-    - readme
-    - browser
   files:
     - !exclude "*"
     - !include "hello.html"
