@@ -1,4 +1,4 @@
-# My Lab
+# My Lab (with x window)
 
 Here's how we can add videos:
 
